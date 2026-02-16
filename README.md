@@ -1,1 +1,19 @@
 # ML-Pratical
+# Numpy  Pratical 1
+
+📊 NumPy Basics Practical
+
+This repository contains hands-on practice and examples demonstrating
+fundamental operations and functions of the **NumPy** library in
+Python.It covers array creation, properties, and common NumPy functions used in
+numerical computing and data science.
+
+
+📁 Contents
+
+-   1D and 2D NumPy arrays
+-   Array properties ('ndim', 'shape', 'size', 'dtype')
+-   Array initialization ('ones', 'zeros', 'empty')
+-   Range and sequence generation ('arange', 'linspace')
+-   Array reshaping and transformation ('reshape', 'ravel', 'flatten',
+    'transpose')
