@@ -19,14 +19,15 @@ numerical computing and data science.
     'transpose')
 
 # Numpy  Pratical 2
- NumPy Mathematical Operations Practical
+
+📊 NumPy Mathematical Operations Practical
 
 This repository demonstrates mathematical and statistical operations
 using the **NumPy** library in Python.
 It includes element‑wise arithmetic, matrix operations, aggregation
 functions, and advanced mathematical functions on NumPy arrays.
 
-------------------------------------------------------------------------
+
 
  📁 Contents
 
