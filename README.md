@@ -37,3 +37,24 @@ functions, and advanced mathematical functions on NumPy arrays.
 -   Sum and mean calculations
 -   Statistical functions (std)
 -   Mathematical functions (sqrt, exp, log, log10)
+
+  # Numpy  Pratical 3
+
+  📊 NumPy Array Slicing, Concatenation & Trigonometry Practical
+
+This repository demonstrates advanced NumPy operations including array
+slicing, indexing, concatenation, splitting, and trigonometric
+computations with visualization.
+
+------------------------------------------------------------------------
+
+ 📁 Contents
+
+-   Array indexing and slicing
+-   Sub-matrix extraction
+-   Array properties ('dtype', 'itemsize')
+-   Array concatenation and stacking
+-   Array splitting
+-   Trigonometric functions ('sin', 'cos', 'tan')
+-   Plotting trigonometric waves
+
