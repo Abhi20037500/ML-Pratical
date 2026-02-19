@@ -46,7 +46,7 @@ This repository demonstrates advanced NumPy operations including array
 slicing, indexing, concatenation, splitting, and trigonometric
 computations with visualization.
 
-------------------------------------------------------------------------
+
 
  📁 Contents
 
@@ -58,3 +58,19 @@ computations with visualization.
 -   Trigonometric functions ('sin', 'cos', 'tan')
 -   Plotting trigonometric waves
 
+# Numpy Pratical 4
+
+📊 NumPy Random Sampling & String Operations Practical
+
+This repository demonstrates NumPy random sampling techniques and string
+operations using NumPy's 'random' and 'char' modules.
+
+
+ 📁 Contents
+
+-   Random number generation
+-   Random integers and multi-dimensional arrays
+-   Seed setting for reproducibility
+-   Random choice and permutation
+-   NumPy string operations
+-   String comparison and manipulation
