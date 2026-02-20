@@ -75,7 +75,7 @@ operations using NumPy's 'random' and 'char' modules.
 -   NumPy string operations
 -   String comparison and manipulation
 
--   Pandas Pratical 1
+ # Pandas Pratical 1
 
  📊 Pandas Basics Practical
 
