@@ -74,3 +74,23 @@ operations using NumPy's 'random' and 'char' modules.
 -   Random choice and permutation
 -   NumPy string operations
 -   String comparison and manipulation
+
+-   Pandas Pratical 1
+
+ 📊 Pandas Basics Practical
+
+This repository demonstrates fundamental data analysis operations usingthe **Pandas** library in Python.
+It covers data loading, exploration, selection, and basic preprocessing techniques on tabular datasets.
+
+
+
+ 📁 Contents
+
+-   Reading CSV files
+-   Creating DataFrames
+
+
+
+ 🧪 Practical Tasks Performed
+
+  Importing Pandas & Loading Data
