@@ -94,3 +94,16 @@ It covers data loading, exploration, selection, and basic preprocessing techniqu
  🧪 Practical Tasks Performed
 
   Importing Pandas & Loading Data
+
+  # Pandas Pratical 2
+
+  📊 Overview
+This practical focuses on fundamental data manipulation and analysis operations using the **Pandas** library in Python. It demonstrates how to create and explore Series and DataFrames, perform indexing and selection, analyze data, and handle missing values.
+
+  🧰 Topics Covered
+
+1️⃣ Creating Pandas Objects
+2️⃣ Data Exploration
+3️⃣ Indexing and Selection
+4️⃣ Handling Missing Values
+5️⃣ Basic Data Analysis
