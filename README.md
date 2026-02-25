@@ -107,3 +107,15 @@ This practical focuses on fundamental data manipulation and analysis operations 
 3️⃣ Indexing and Selection
 4️⃣ Handling Missing Values
 5️⃣ Basic Data Analysis
+
+# Pandas Pratical 3
+
+📊 DataFrame Operations
+This project demonstrates basic to intermediate Pandas DataFrame operations using a real-world news dataset (True.csv). It covers data loading, cleaning, selection, replacement, and grouping techniques.
+
+📁 Dataset
+The dataset contains 21,417 rows × 4 columns:
+title – News headline
+text – Full article content
+subject – Category (e.g., politicsNews, worldnews)
+date – Published date
