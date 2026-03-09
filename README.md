@@ -119,3 +119,16 @@ title – News headline
 text – Full article content
 subject – Category (e.g., politicsNews, worldnews)
 date – Published date
+
+# Matplotlib Practical 1
+
+📌 Overview
+This practical demonstrates the basics of data visualization using Matplotlib in Python. It covers different types of plots such as Line Plot, Histogram, Bar Chart, and Scatter Plot to visualize datasets effectively.
+
+📚 Topics Covered
+Line Plot
+Histogram
+Bar Chart
+Scatter Plot
+Plot customization (color, linestyle, marker, legend, labels)
+Styling graphs using ggplot
