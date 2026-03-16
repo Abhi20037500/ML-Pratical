@@ -132,3 +132,16 @@ Bar Chart
 Scatter Plot
 Plot customization (color, linestyle, marker, legend, labels)
 Styling graphs using ggplot
+
+# Matplotlib Pratical 2
+
+
+📌 Overview
+This practical demonstrates advanced visualization techniques using Matplotlib in Python. It covers Pie Charts, Subplots, Saving Figures, and Displaying Images.
+
+📚 Topics Covered
+Pie Chart
+Subplot
+Polar Plot
+Save Figure
+Display Image using Matplotlib
